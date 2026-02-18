@@ -4,6 +4,8 @@ Transforming manufacturing raw data into actionable insights for process efficie
 Project Overview: Experimental Data Management System
 "A streamlined SQL-based system for tracking material science experiments, featuring automated data integration through Triggers."
 
+![캡처1](https://github.com/user-attachments/assets/e14f1dcb-0109-4e2a-b04b-821ba592a4c5)
+
 💡 Key Highlights
 Relational Architecture: Designed a normalized schema to decouple material compositions from processing variables, ensuring 100% data traceability.
 
