@@ -1,5 +1,5 @@
 # Manufacturing-Data-Analysis
-Transforming manufacturing raw data into actionable insights for process efficiency.
+To address data silo issues in real-world material engineering, I implemented a relational database model that automates data integration through SQL Triggers.
 
 Project Overview: Experimental Data Management System
 "A streamlined SQL-based system for tracking material science experiments, featuring automated data integration through Triggers."
