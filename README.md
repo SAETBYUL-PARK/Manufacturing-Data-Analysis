@@ -31,7 +31,7 @@ It centralizes the final experimental metrics, ensuring that every data point is
 3. Data Automation: Trigger Implementation
 "Automating Data Integration & Ensuring Integrity"
 
-To streamline the data entry workflow, an AFTER INSERT Trigger was implemented on the process table.
+To streamline the data entry workflow, an AFTER INSERT Trigger was implemented on the material_component table.
 
 Upon the insertion of new process parameters, the system automatically identifies the most recent material_id and initializes a corresponding record in the test_result table. This prevents data silos and ensures that experimental results are never orphaned from their metadata.
 
